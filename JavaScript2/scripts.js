@@ -1,5 +1,5 @@
-import { firstname, surname, role as firstname1, surname1, role1} from './alex'
-import { firstname, surname, role as firstname2, surname2, role2} from './johannes'
-import { firstname, surname, role as firstname3, surname3, role3} from './nwabisa'
+import { role as role1} from './alex.js'
+import { role as role2} from './johannes.js'
+import { role as role3} from './nwabisa.js'
 
-console.log(role)
+console.log("roles: "+role1, role2, role3)
